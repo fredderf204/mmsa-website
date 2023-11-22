@@ -1,0 +1,19 @@
+[[main]]
+    identifier = "home"
+    name = "Home"
+    url = "/"
+    weight = 1
+
+[[main]]
+    identifier = "about"
+    name = "About"
+    url = "/posts/welcome/"
+    weight = 2
+    
+# Social Media Configuration
+
+[[social]]
+    identifier = "github"
+    name = "GitHub"
+    url = "#"
+    weight = 3
