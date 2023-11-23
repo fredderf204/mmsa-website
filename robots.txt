@@ -4,6 +4,8 @@ Disallow: /mmsa-website/
 
 Disallow: /mmsa-website/posts/
 
+Disallow: /mmsa-website/posts/events/
+
 Disallow: /mmsa-website/posts/welcome/
 
 Disallow: /mmsa-website/categories/
