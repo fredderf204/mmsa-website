@@ -1,1 +1,17 @@
 User-agent: *
+
+Disallow: /mmsa-website/
+
+Disallow: /mmsa-website/posts/
+
+Disallow: /mmsa-website/posts/welcome/
+
+Disallow: /mmsa-website/categories/
+
+Disallow: /mmsa-website/categories/css/
+
+Disallow: /mmsa-website/categories/javascript/
+
+Disallow: /mmsa-website/tags/
+
+Disallow: /mmsa-website/categories/uncategories/
