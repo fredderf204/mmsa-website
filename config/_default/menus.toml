@@ -5,10 +5,16 @@
     weight = 1
 
 [[main]]
-    identifier = "about"
-    name = "About"
+    identifier = "overview"
+    name = "Overview"
     url = "/posts/welcome/"
     weight = 2
+
+[[main]]
+    identifier = "events"
+    name = "Events"
+    url = "/posts/events/"
+    weight = 3
     
 # Social Media Configuration
 

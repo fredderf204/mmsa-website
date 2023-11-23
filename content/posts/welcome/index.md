@@ -1,7 +1,7 @@
 ---
 title: "Welcome to the Migrate and Modernise Scale Accelerator!"
 draft: false
-date: 2022-08-27T09:16:45.000Z
+date: 2023-11-21T09:16:45.000Z
 description: "Focused on the success of small and mid-market customers in Australia & NZ, we’d like to introduce you to a new program designed to accelerate your business helping customers adopt Microsoft Azure!"
 categories:
 tags:
