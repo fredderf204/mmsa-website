@@ -9,14 +9,6 @@ tags:
 weight: 2
 ---
 
-## Azure Landing Zones – Part 1 of the Migrate & Modernize series ##
-
-This webinar is the first of a series focused around migrating and modernizing workloads to Azure for Microsoft Partners. This session will enable Microsoft partners on everything to prepare Azure environments with proper guardrails for security, compliance, and governance. We will explore the importance of consistent environmental configuration with Azure landing zones, design considerations required for environmental and compliance readiness, and implementation options to accelerate landing zone deployments and configuration.
-
-29 November 2023 - 12pm AEDT / 2pm NZDT
-
-[Register Now](https://msit.events.teams.microsoft.com/event/7b952467-ee2d-45e9-83c9-c91e6f92f6d5@72f988bf-86f1-41af-91ab-2d7cd011db47)
-
 ## Azure Migration - Part 2 of the Migrate & Modernize series ##
 
 Azure Migrate is a cloud-based service that helps you discover, assess, and migrate your on-premises workloads to Azure. In this webinar, you will learn how to use Azure Migrate to plan and execute your migration projects with confidence and ease. You will also see a live demo of the Azure Migrate portal and its features, such as dependency analysis, cost estimation, and migration readiness assessment. Whether you are migrating servers, databases, web apps, or virtual desktops, Azure Migrate can help you achieve your goals faster and more efficiently.
