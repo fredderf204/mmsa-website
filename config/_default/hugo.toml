@@ -9,6 +9,7 @@ summaryLength = 15
 paginate = 5
 toggle-theme = true
 googleAnalytics = "G-7T7BLYN0RW"
+favicon = "/mmsa-website/favicon.ico"
 
 [markup]
   [markup.highlight]
