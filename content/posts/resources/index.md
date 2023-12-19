@@ -37,3 +37,17 @@ This webinar is the first of a series focused around migrating and modernizing w
 
 [Scale Accelerator - Sample Azure Landing Zone Guidance](https://livesend.microsoft.com/i/AgF1kGOIh2gnlqKDy9B6HPLUSSIGNMAIbhR1QYEN2xY4CUDJ6NUrAyXGxWJYuPE___cAS7FGcvTVL7KxXRtqNbUBGFL5DcJFy6UviPLUSSIGN3lWDmHgG9riBy5F7vme8BciphsupuWSWdu6
 )
+
+## Azure Migration - Part 2 of the Migrate & Modernize series ##
+
+Azure Migrate is a cloud-based service that helps you discover, assess, and migrate your on-premises workloads to Azure. In this webinar, you will learn how to use Azure Migrate to plan and execute your migration projects with confidence and ease. You will also see a live demo of the Azure Migrate portal and its features, such as dependency analysis, cost estimation, and migration readiness assessment. Whether you are migrating servers, databases, web apps, or virtual desktops, Azure Migrate can help you achieve your goals faster and more efficiently.
+
+6 December 2023 - 12pm AEDT / 2pm NZDT
+
+[Watch Now](https://livesend.microsoft.com/i/AgF1kGOIh2gnlqKDy9B6HPLUSSIGNMAIbhR1QYEN2xY4CUDJ6MwWcIDdFRik8AbjRckD8EbwDoSa4ZFbCTFLhgrjZwXNVzn4O0DGzgz7kXj2DShWcWfSOvp5e21PVWLGIebH5zC)
+
+[Slides](https://livesend.microsoft.com/i/AgF1kGOIh2gnlqKDy9B6HPLUSSIGNMAIbhR1QYEN2xY4CUDJ6Pi0iPLUSSIGN4kG0D0U7isHjCjJWbkSHUVZtEMSuT2LNPVJhe1rshvX0Wyf0ov4U37vpljIt7wPLUSSIGN2Q6YHuoZgXTEi7qy9l)
+
+[Sample Azure Migrate - SOW](https://livesend.microsoft.com/i/AgF1kGOIh2gnlqKDy9B6HPLUSSIGNMAIbhR1QYEN2xY4CUDJ6PySzFC84ugvBqW2VCOsHFmiaFj___AO2aBkxlasEilPmzEaSPLUSSIGN___w2BnUaEc7TxTWylc___cxC8CVJ1CZGbApzS8mCao)
+
+[Sample Application Assessment Report - Template](https://livesend.microsoft.com/i/AgF1kGOIh2gnlqKDy9B6HPLUSSIGNMAIbhR1QYEN2xY4CUDJ6MhcTI5q0CUdIDxYs___AflxSu7fNIVOeae6Ce52zjn___kuSsu2Iq9tLDjMRveq___RiOmKDZjy90iGMKObEFd91U4xg)

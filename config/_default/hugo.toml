@@ -10,7 +10,6 @@ paginate = 5
 toggle-theme = true
 googleAnalytics = "G-7T7BLYN0RW"
 
-
 [markup]
   [markup.highlight]
     anchorLineNos = false
