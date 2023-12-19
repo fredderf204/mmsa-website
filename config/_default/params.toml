@@ -1,6 +1,9 @@
 # Homepage Config
 isSinglePage = true
 
+# Favicon
+favicon = "/mmsa-website/favicon.ico"
+
 # Meta Config
 description = "Migrate and Modernise on Azure"
 
