@@ -51,3 +51,13 @@ Azure Migrate is a cloud-based service that helps you discover, assess, and migr
 [Sample Azure Migrate - SOW](https://livesend.microsoft.com/i/AgF1kGOIh2gnlqKDy9B6HPLUSSIGNMAIbhR1QYEN2xY4CUDJ6PySzFC84ugvBqW2VCOsHFmiaFj___AO2aBkxlasEilPmzEaSPLUSSIGN___w2BnUaEc7TxTWylc___cxC8CVJ1CZGbApzS8mCao)
 
 [Sample Application Assessment Report - Template](https://livesend.microsoft.com/i/AgF1kGOIh2gnlqKDy9B6HPLUSSIGNMAIbhR1QYEN2xY4CUDJ6MhcTI5q0CUdIDxYs___AflxSu7fNIVOeae6Ce52zjn___kuSsu2Iq9tLDjMRveq___RiOmKDZjy90iGMKObEFd91U4xg)
+
+## Azure Modernization - Part 3 of the Migrate & Modernize series ##
+
+Azure Migrate simplifies modernizing on-premises applications to Azure. Join our webinar to explore the typical phases of App Modernization and witness a live demo showcasing Azure Migrate's assessment and migration of ASP.NET web apps, highlighting its efficiency in achieving migration and modernization goals across various workloads seamlessly. Whether it's servers, databases, web apps, or virtual desktops, Azure Migrate is your tool for faster and efficient migration and modernization to Azure.
+
+13 December 2023 - 12pm AEDT / 2pm NZDT
+
+[Watch Now](https://livesend.microsoft.com/i/4sgTzewyG4PLUSSIGNSsWbpT02jgSEaZbnirTFw4l___OzojmSlOix5ixPLUSSIGNLZGERHHgaUNAFPLUSSIGNFyCD70qKhG4MLx7xcz2UCVj___Wk2jQBVWd71OkD7wiamB4___lYiPSdXHnFr___jWNBQ4n)
+
+[Slides](https://livesend.microsoft.com/i/4sgTzewyG4PLUSSIGNSsWbpT02jgSEaZbnirTFw4l___OzojmSlPrtOB8DCVLGNwYTxBAx7hRetypXPLUSSIGNWZg8EPLUSSIGNpowUrS6DTTSV61UAep53EjyjdgxGlSyKPU9lmnWLDpJ7PCyCQroR)
