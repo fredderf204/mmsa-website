@@ -9,4 +9,4 @@ tags:
 weight: 2
 ---
 
-## Events are currently being schedule and this page will be updated soon. ##
+## Events are currently being scheduled and this page will be updated soon. ##
