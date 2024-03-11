@@ -61,3 +61,13 @@ Azure Migrate simplifies modernizing on-premises applications to Azure. Join our
 [Watch Now](https://livesend.microsoft.com/i/4sgTzewyG4PLUSSIGNSsWbpT02jgSEaZbnirTFw4l___OzojmSlOix5ixPLUSSIGNLZGERHHgaUNAFPLUSSIGNFyCD70qKhG4MLx7xcz2UCVj___Wk2jQBVWd71OkD7wiamB4___lYiPSdXHnFr___jWNBQ4n)
 
 [Slides](https://livesend.microsoft.com/i/4sgTzewyG4PLUSSIGNSsWbpT02jgSEaZbnirTFw4l___OzojmSlPrtOB8DCVLGNwYTxBAx7hRetypXPLUSSIGNWZg8EPLUSSIGNpowUrS6DTTSV61UAep53EjyjdgxGlSyKPU9lmnWLDpJ7PCyCQroR)
+
+## Modernizing and Building AI Infused Apps ##
+
+What are the common pathways for modernizing .net and container-compatible applications to Azure? And how can we extend AI to these applications? Join us to unpack Azure Modernization and how to extend AI capabilities to modern applications using Azure.
+
+6 March 2024 - 1pm AEDT / 3pm NZDT
+
+[Watch Now](https://livesend.microsoft.com/i/4sgTzewyG4PLUSSIGNSsWbpT02jgSEaZbnirTFw4l___OzojmSlP3DZF52dZtDGjeWYjias29z10s9eFOpizswgfSYfNxuEBPLUSSIGN5bA5BgoG___0DhD7ij5E4ETNPLUSSIGN0mtsl9RQnxJ2DMME4)
+
+[Slides](https://livesend.microsoft.com/i/4sgTzewyG4PLUSSIGNSsWbpT02jgSEaZbnirTFw4l___OzojmSlMgIeShHNWxrxVcxWC34a9mUPLUSSIGNvWKWf4Ae1XPB8sPLUSSIGNHrhZ4hws7fDJH6HMaOPrBtAwE1mSLMa33GHmCpcMXRp958a)
