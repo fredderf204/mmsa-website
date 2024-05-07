@@ -9,4 +9,10 @@ tags:
 weight: 2
 ---
 
-## Events are currently being scheduled and this page will be updated soon. ##
+## Ace Your "Module A" Specialization Audit: Cloud Adoption Framework Expert Guidance ##
+
+The Cloud Foundation module is centered on the Cloud Adoption Framework for Azure and is required for multiple Azure Specializations. In this session I will take you through the considerations when gathering the required evidence across the areas of CAF covering topics such as aligning customer cloud strategies with their business objectives, optimizing financial and technical considerations, and ensuring a secure and well-managed cloud environment.
+
+22 May 2024 - 12pm AEDT / 2pm NZDT
+
+[Register Now](https://aka.ms/MMSA/CAF)

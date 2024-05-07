@@ -17,7 +17,7 @@ Join us as we unpack everything you need to know about selling the value of Micr
 
 [Watch Now](https://aka.ms/MMSA/howtosellazure)
 
-[Slides](https://livesend.microsoft.com/i/4sgTzewyG4PLUSSIGNSsWbpT02jgSEaZbnirTFw4l___OzojmSlMfHHC1GJXjF4cV12eaC3kFUWgs6dkGhibPLUSSIGNfKvuO___u5zYbaaEQDReWEG25G6ieRkn1gOfSvsDcg5z58bFE7hfxy)
+[Slides](https://livesend.microsoft.com/i/4sgTzewyG4PLUSSIGNSsWbpT02jgSEaZbnirTFw4l___OzojmSlPrtOB8DCVLGNwYTxBAx7hRLjJPQZBk0KaGgKcaUpymkIB8kpHqvEwzD___xE3QYmuZsyS1vhOUf41XZZ6ecXrixW)
 
 ## Azure Landing Zones – Part 1 of the Migrate & Modernize series ##
 
@@ -29,14 +29,13 @@ This webinar is the first of a series focused around migrating and modernizing w
 
 [Slides](https://livesend.microsoft.com/i/4sgTzewyG4PLUSSIGNSsWbpT02jgSEaZbnirTFw4l___OzojmSlO2f7LqlW7lwzU8Xnjd2PUUwllNJy9VISSb6zUM3I6WoNMUopPgeIFuK2hwPce5WWH42UhhkyPLUSSIGNTo34C2PLUSSIGNWgUziM)
 
-[Sample High Level WBS ALZ](https://livesend.microsoft.com/i/AgF1kGOIh2gnlqKDy9B6HPLUSSIGNMAIbhR1QYEN2xY4CUDJ6Mn0cPp4bsA0kYIxxXV1FeR5QjjSUV30lDoziInKTKO3IcGDlOAyqefWTBcCu3cGAAbkI2pUbHPXDM0aYM1vhMf)
+[Sample High Level WBS ALZ](https://livesend.microsoft.com/i/4sgTzewyG4PLUSSIGNSsWbpT02jgSEaZbnirTFw4l___OzojmSlOix5ixPLUSSIGNLZGERHHgaUNAFPLUSSIGNFa5Jf5Ii4M0VY6Bxv5nQjszfRonA1acb2bqqjIM21YJ3JlX61Wf2rvqQY0x2z9GaS)
 
-[Sample Detailed WBS ALZ](https://livesend.microsoft.com/i/AgF1kGOIh2gnlqKDy9B6HPLUSSIGNMAIbhR1QYEN2xY4CUDJ6P1Zd13jL7iNP0hlD1cMgW638gTd0vc7os___TSme8YjdlUwupNA5xyXc72huYEbi18AN1OoblaALxOH70TtBPFz4)
+[Sample Detailed WBS ALZ](https://livesend.microsoft.com/i/4sgTzewyG4PLUSSIGNSsWbpT02jgSEaZbnirTFw4l___OzojmSlO2f7LqlW7lwzU8Xnjd2PUUaOmvLvpc8F6___pMR___xPLUSSIGNVeBj2SM4y5fRAMrxUtknGfp9UIZ___fpjOLSQ8P7aFCNBGAG)
 
-[Sample Azure Landing Zone - SOW](https://livesend.microsoft.com/i/AgF1kGOIh2gnlqKDy9B6HPLUSSIGNMAIbhR1QYEN2xY4CUDJ6MwWcIDdFRik8AbjRckD8EbdA1vNRuu8QvntPN3toloU___MfyifHWz2z65JwXPLUSSIGNSxjUWi76ykpcsEvWaXOoYJeejG)
+[Sample Azure Landing Zone - SOW](https://livesend.microsoft.com/i/4sgTzewyG4PLUSSIGNSsWbpT02jgSEaZbnirTFw4l___OzojmSlMGh4oVLsqbP0qC4tg0ae24aatAIIKTHvCQQmJ4w8mPSr3ZyUUEg1InLfGOkNAYRW1zA395ADikQv0tUV8c2NDR)
 
-[Scale Accelerator - Sample Azure Landing Zone Guidance](https://livesend.microsoft.com/i/AgF1kGOIh2gnlqKDy9B6HPLUSSIGNMAIbhR1QYEN2xY4CUDJ6NUrAyXGxWJYuPE___cAS7FGcvTVL7KxXRtqNbUBGFL5DcJFy6UviPLUSSIGN3lWDmHgG9riBy5F7vme8BciphsupuWSWdu6
-)
+[Scale Accelerator - Sample Azure Landing Zone Guidance](https://livesend.microsoft.com/i/4sgTzewyG4PLUSSIGNSsWbpT02jgSEaZbnirTFw4l___OzojmSlMGh4oVLsqbP0qC4tg0ae24GNywFxe0u9UQDuHcPRmE7Y0ox9SgIqhCggzd1hm9qg3A5RY3o3H0PUx5QcAQaaFK)
 
 ## Azure Migration - Part 2 of the Migrate & Modernize series ##
 
