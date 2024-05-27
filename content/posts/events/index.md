@@ -9,10 +9,14 @@ tags:
 weight: 2
 ---
 
-## Ace Your "Module A" Specialization Audit: Cloud Adoption Framework Expert Guidance ##
+## Azure Virtual Desktop ##
 
-The Cloud Foundation module is centered on the Cloud Adoption Framework for Azure and is required for multiple Azure Specializations. In this session I will take you through the considerations when gathering the required evidence across the areas of CAF covering topics such as aligning customer cloud strategies with their business objectives, optimizing financial and technical considerations, and ensuring a secure and well-managed cloud environment.
+5 June 2024 - 12pm AEDT / 2pm NZDT
 
-22 May 2024 - 12pm AEDT / 2pm NZDT
+## Hybrid Cloud with Azure Arc ##
 
-[Register Now](https://aka.ms/MMSA/CAF)
+18 June 2024 - 12pm AEDT / 2pm NZDT
+
+## Next Steps in Azure - Modern Management & Continuous Evolution ##
+
+19 June 2024 - 12pm AEDT / 2pm NZDT

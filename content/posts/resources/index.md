@@ -70,3 +70,13 @@ What are the common pathways for modernizing .net and container-compatible appli
 [Watch Now](https://livesend.microsoft.com/i/4sgTzewyG4PLUSSIGNSsWbpT02jgSEaZbnirTFw4l___OzojmSlP3DZF52dZtDGjeWYjias29z10s9eFOpizswgfSYfNxuEBPLUSSIGN5bA5BgoG___0DhD7ij5E4ETNPLUSSIGN0mtsl9RQnxJ2DMME4)
 
 [Slides](https://livesend.microsoft.com/i/4sgTzewyG4PLUSSIGNSsWbpT02jgSEaZbnirTFw4l___OzojmSlMgIeShHNWxrxVcxWC34a9mUPLUSSIGNvWKWf4Ae1XPB8sPLUSSIGNHrhZ4hws7fDJH6HMaOPrBtAwE1mSLMa33GHmCpcMXRp958a)
+
+## Ace Your "Module A" Specialization Audit: Cloud Adoption Framework Expert Guidance ##
+
+The Cloud Foundation module is centered on the Cloud Adoption Framework for Azure and is required for multiple Azure Specializations. In this session I will take you through the considerations when gathering the required evidence across the areas of CAF covering topics such as aligning customer cloud strategies with their business objectives, optimizing financial and technical considerations, and ensuring a secure and well-managed cloud environment.
+
+22 May 2024 - 12pm AEDT / 2pm NZDT
+
+[Watch Now](https://livesend.microsoft.com/i/s10tgJUYBbdQ___EGeg87GGaHfj5lLokCTboBeh4hyauV9D6PLUSSIGNbtywA0AGiq5RnbC8q2PgIDF4p8yfpFvYdZhwOyD1sFENCNybghQgz6SWh9SOtK2dL0pGAlUlFoe0NV1kS)
+
+[Slides](https://livesend.microsoft.com/i/s10tgJUYBbdQ___EGeg87GGaHfj5lLokCTboBeh4hyauXFKzEqMPUageUxWMURabiMoE5HhFHYCjRURf___wPLUSSIGNuIH4d28L7s83JB6P5TUb5vTVizVfcVJl2Z0Aq54rk4vDHnN)
