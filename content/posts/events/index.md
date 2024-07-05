@@ -9,10 +9,6 @@ tags:
 weight: 2
 ---
 
-## Azure Virtual Desktop ##
-
-5 June 2024 - 12pm AEDT / 2pm NZDT
-
 ## Hybrid Cloud with Azure Arc ##
 
 18 June 2024 - 12pm AEDT / 2pm NZDT

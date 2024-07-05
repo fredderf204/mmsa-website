@@ -80,3 +80,13 @@ The Cloud Foundation module is centered on the Cloud Adoption Framework for Azur
 [Watch Now](https://livesend.microsoft.com/i/s10tgJUYBbdQ___EGeg87GGaHfj5lLokCTboBeh4hyauV9D6PLUSSIGNbtywA0AGiq5RnbC8q2PgIDF4p8yfpFvYdZhwOyD1sFENCNybghQgz6SWh9SOtK2dL0pGAlUlFoe0NV1kS)
 
 [Slides](https://livesend.microsoft.com/i/s10tgJUYBbdQ___EGeg87GGaHfj5lLokCTboBeh4hyauXFKzEqMPUageUxWMURabiMoE5HhFHYCjRURf___wPLUSSIGNuIH4d28L7s83JB6P5TUb5vTVizVfcVJl2Z0Aq54rk4vDHnN)
+
+## Azure Virtual Desktop ##
+
+Join us for an insightful webinar on Azure Virtual Desktop, where we'll delve into the best practices for deploying and operating this comprehensive desktop and app virtualization service in the cloud. Learn how to optimize and manage your virtual desktop environment effectively, ensuring security, scalability, and cost-efficiency. Whether you're new to Azure Virtual Desktop or looking to enhance your existing setup, this session will equip you with valuable tips and knowledge to elevate your organization's virtual desktop experience. Don't miss out on this opportunity to advance your skills and drive digital transformation within your workspace.
+
+26 June 2024 - 12pm AEDT / 2pm NZDT
+
+[Watch Now](https://livesend.microsoft.com/i/s10tgJUYBbdQ___EGeg87GGaHfj5lLokCTboBeh4hyauVhEyQgLVHU4wGL9dGWhre0q70ip3f98y2mxwkWVKLUDPeHJ80TiskmEsTXfOIdx8hdbkcae9JOIEoN2rd7wQq3)
+
+[Slides](https://livesend.microsoft.com/i/s10tgJUYBbdQ___EGeg87GGaHfj5lLokCTboBeh4hyauWdVNPLUSSIGNn___hccSbI9xeJuY7Iy1wqOqGrndl2hwPJZbdKpFRC1kODdcb5A4FBf93QWb___zJ8aKcVCcdPdMkpy8Tkn3v)
